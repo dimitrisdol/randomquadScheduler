@@ -62,5 +62,5 @@ spec:
   - hostPath:
       path: /etc/kubernetes/randomquad-config.yml
       type: File
-    name: greedyquad-config
+    name: randomquad-config
 status: {}
