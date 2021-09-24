@@ -1,4 +1,4 @@
-# RandomQuadSchedulertest01
+# Random Quad Scheduler
 
 This is a scheduler out-of-tree plugin in order to randomly asssign different types of applications to servers as quadruples.
 
